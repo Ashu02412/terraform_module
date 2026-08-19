@@ -1,5 +1,5 @@
 module "rg" {
-    source = "../../landing_zone/resource_group"
+    source = "../../Module/resource_group"
     rg = var.rg
   
 }

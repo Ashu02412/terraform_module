@@ -23,7 +23,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: ./environments/DEV
+        working-directory: ./Environment/dev
 
     steps:
 
